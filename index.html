@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poker Card Game</title>
+    <link rel="stylesheet" type="text/css" href="Stylesheet.css">
+    <script type="text/javascript" src="functions.js"></script>
+</head>
+<body>
+    <h1>Welcome To Abhimanyu's Poker Card Game</h1>
+
+    <div class="buttons">
+        <a href="#" class="bn29" id="single-deal">Single Deal</a>
+        <a href="#" class="bn29" id="Multi-deal">Multi Deal</a>
+        <a href="#" class="bn29" id="Change-Power">Change Card(s) Power</a>
+
+  </button>
+    </div>
+
+    <div id="edit-power">
+        <div>
+            <label for="c2">2  :</label>
+            <input type="text" id="c2" value="1"/>
+        </div>
+        <div>
+            <label for="c3">3  :</label>
+            <input type="text" id="c3" value="2"/>
+        </div>
+        <div>
+            <label for="c4">4  :</label>
+            <input type="text" id="c4" value="3"/>
+        </div>
+        <div>
+            <label for="c5">5  :</label>
+            <input type="text" id="c5" value="4"/>
+        </div>
+        <div>
+            <label for="c6">6  :</label>
+            <input type="text" id="c6" value="5"/>
+        </div>
+        <div>
+            <label for="c7">7  :</label>
+            <input type="text" id="c7" value="6"/>
+        </div>
+        <div>
+            <label for="c8">8  :</label>
+            <input type="text" id="c8" value="7"/>
+        </div>
+        <div>
+            <label for="c9">9  :</label>
+            <input type="text" id="c9" value="8"/>
+        </div>
+        <div>
+            <label for="c10">10:</label>
+            <input type="text" id="c10" value="10"/>
+        </div>
+        <div>
+            <label for="c11">J  :</label>
+            <input type="text" id="c11" value="12"/>
+        </div>
+
+        <div>
+            <label for="c12">Q  :</label>
+            <input type="text" id="c12" value="14"/>
+        </div>
+
+        <div>
+            <label for="c13">K  :</label>
+            <input type="text" id="c13" value="16"/>
+        </div>
+        <div>
+            <label for="c14">A :</label>
+            <input type="text" id="c14" value="20"/>
+        </div>
+        <div>
+            <button id="btn-change">Change</button>
+            <button id="btn-cancel">Cancel</button>   
+        </div>
+        <p> There is extra power for special sequences. If you get any of these sequences, you will get an alert of incresed power. </p> 
+        <Ul>
+            <li> 'AAA' is +20 power</li>
+            <li> 'AA' is +10 power</li>
+            <li> 'AKQ' is +10 power</li>
+        </Ul>
+    </div>
+
+<div class="table" id="table">
+    <div class="player bn9" id="player1">
+        <h2><u>Player 1</u></h2>
+    </div>
+
+    <div class="player bn9" id="player2">
+        <h2><u>Player 2</u></h2>
+    </div>
+
+    <div class="player bn9" id="player3">
+        <h2><u>Player 3</u></h2>
+    </div>
+
+    <div class="player bn9" id="player4">
+        <h2><u>Player 4</u></h2>
+    </div>
+</div>
+
+    <div id="winner-display"></div>
+    
+</body>
+</html>
