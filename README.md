@@ -12,13 +12,10 @@ Developed a web-based poker card game platform using HTML, CSS, and JavaScript, 
 - [Achievements](#Achievements)
 - [Screenshots](#Screenshots)
 
-## InstallationTo run this poker card game on your local machine, follow these steps:
-
+## Installation
 1. Clone this repository to your local machine.
 2. Open the index.html file in your preferred web browser.
 
-
-## Usage
 ## Usage
 1. **Single Deal**: Click on the "Single Deal" button to deal cards for a single round. This option is suitable for quick games or practice sessions.
    
@@ -35,27 +32,15 @@ Developed a web-based poker card game platform using HTML, CSS, and JavaScript, 
 7. **Enjoying the Experience**: Sit back, relax, and enjoy playing poker in a convenient and user-friendly online environment. Whether you're playing solo or with friends, this platform offers an immersive gaming experience that guarantees entertainment.
 
 ## Project Description
-The Genomic Analysis Tool for SARS-CoV-2 Variants is a comprehensive project aimed at mastering key aspects of data science, including data downloading and cleaning, dataset setup, distance computation, dimensionality reduction, and data visualization. This project, involves two program scripts.
+This project introduces a web-based poker card game platform developed using HTML, CSS, and JavaScript. It delivers an immersive gaming experience by offering features like single or multi-round gameplay, customizable card powers, and advanced luck factor calculations. Players can engage in dynamic and strategic gameplay, enjoying seamless card dealing and winner determination. With its intuitive design, the platform ensures an enjoyable experience whether playing alone or with friends.
 
-#### Program Script#1: Downloading and Pre-processing Data
-Step 1 : Register on the GISAID site, following the instructions in the "Registration" tab. Account approval may take 24-48 hours.
-
-Step 2 : Log in, navigate to the "EpiCoV" tab, and download SARS-CoV-2 sequences in "fasta" format. Apply filters for completeness, coverage, geographic origin, and variant type.
-
-Step 3 : Process downloaded sequences for each variant, converting to uppercase, filtering recognized letters (A, C, G, T), and organizing them into individual .fasta files.
-
-#### Program Script#2: Reading the Dataset and Visualization
-Step 4 : Read individual .fasta files containing SARS-CoV-2 sequences.
-
-Step 5 : Compute Chaos Game Representations (CGR) with k = 7 for each sequence, generating CGR plots.
-
-Step 6 : Compute pairwise distances between CGRs, creating a symmetric distance matrix.
-
-Step 7 : Utilize multi-dimensional scaling (MDS) for dimensionality reduction, creating a 3D plot to visualize relationships between data points.
+With a focus on user engagement and strategic depth, this web-based poker card game platform stands out for its polished interface and innovative features. By incorporating customizable card powers and sophisticated luck factor calculations, players can tailor their gaming experience and gain insights into their performance. The platform's seamless functionality and intuitive design make it suitable for both casual gamers and poker enthusiasts, offering an immersive and enjoyable gaming experience that keeps players coming back for more.
 
 ## Achievements
-This assignment was successfully completed using Python, incorporating libraries such as Biopython for sequence processing, Matplotlib for plotting, and Scikit-learn for MDS. The code includes optimized functions for reading sequences, generating CGR plots, computing distances, and visualizing relationships.
-
+**Creative Implementation of Customization:** Demonstrated exceptional creativity by implementing customizable card powers and advanced luck factor calculations, showcasing proficiency in designing complex gaming mechanics and enhancing user engagement.
+**Skillful Handling of Complexity:** Successfully managed the intricacies of game development by seamlessly integrating features such as single or multi-round gameplay, card shuffling for randomness, and dynamic winner determination algorithms, highlighting adeptness in handling complexity in programming projects.
+**Proficiency in HTML, CSS, and JavaScript:** Leveraged expertise in HTML, CSS, and JavaScript to craft a polished and intuitive user interface, ensuring a seamless and enjoyable gaming experience for players of all skill levels.
+**Innovative Solutions for User Experience Enhancement:** Introduced innovative solutions to enhance user experience, including intuitive interface design, interactive gameplay elements, and sophisticated statistical analyses, reflecting a keen understanding of user needs and preferences.
 ## Screenshots
 ![3D Plot Screenshot.png](3D%20Plot%20Screenshot.png)
 
