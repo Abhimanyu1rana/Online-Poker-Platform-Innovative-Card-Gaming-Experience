@@ -41,8 +41,21 @@ With a focus on user engagement and strategic depth, this web-based poker card g
 **Skillful Handling of Complexity:** Successfully managed the intricacies of game development by seamlessly integrating features such as single or multi-round gameplay, card shuffling for randomness, and dynamic winner determination algorithms, highlighting adeptness in handling complexity in programming projects.
 **Proficiency in HTML, CSS, and JavaScript:** Leveraged expertise in HTML, CSS, and JavaScript to craft a polished and intuitive user interface, ensuring a seamless and enjoyable gaming experience for players of all skill levels.
 **Innovative Solutions for User Experience Enhancement:** Introduced innovative solutions to enhance user experience, including intuitive interface design, interactive gameplay elements, and sophisticated statistical analyses, reflecting a keen understanding of user needs and preferences.
+
 ## Screenshots
-![3D Plot Screenshot.png](3D%20Plot%20Screenshot.png)
+**This screen is shown after you open index.html in your browser:** 
+It has Buttons to select Single Deal , Multi Deal or Change Power Settings
+![Poker1.png](Poker1.png)
+
+**
+![poker2.png](poker2.png)
+
+![poker3.png](poker3.png)
+![poker4.png](poker4.png)
+![poker5.png](poker5.png)
+
+![poker6.png](poker6.png)
+
 
 
 
