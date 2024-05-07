@@ -47,13 +47,19 @@ With a focus on user engagement and strategic depth, this web-based poker card g
 It has Buttons to select Single Deal , Multi Deal or Change Power Settings
 ![Poker1.png](Poker1.png)
 
-**
+**After you hit Single Deal, A shuufle animation is presented between four players and a single deck of cards is dealt.**
 ![poker2.png](poker2.png)
 
+**Once the Cards are dealt , The System will present each Player Details under their respective Containers . And The Winner will be declared at bottom of screen,**
 ![poker3.png](poker3.png)
+
+**Let's try the Multi deal Button. After HItting the button, You will be asked how many decks would you like to be shuffled.**
 ![poker4.png](poker4.png)
+
+**After the Cards are Distributed the respective player Marks are presented beneath their shuffled deck. But the winner is Based on All the deals.**
 ![poker5.png](poker5.png)
 
+**Under The change Cards Power Button, we can declare the Power each card holds according to our desire. and There's explanations for special sequences holding extra power.**
 ![poker6.png](poker6.png)
 
 
